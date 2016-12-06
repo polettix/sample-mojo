@@ -1,4 +1,4 @@
-== `sample-mojo`
+## `sample-mojo`
 
 An example [Mojolicious::Lite][] application, with a single `GET` route
 that will just greet you back in plain text. You can get a bit more out of
